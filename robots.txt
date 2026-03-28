@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oskarw.github.io/oskarw-pages/sitemap.xml
+Sitemap: https://oskarwieckowicz.github.io/sitemap.xml
